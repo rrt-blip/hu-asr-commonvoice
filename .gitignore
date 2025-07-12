@@ -1,0 +1,16 @@
+# Data and models
+data/
+exp*/
+*.pt
+*.onnx
+*.npy
+*.jsonl
+*.jsonl.gz
+
+# Python/OS files
+__pycache__/
+*.py[cod]
+.DS_Store
+*.pt
+data/
+exp*/
