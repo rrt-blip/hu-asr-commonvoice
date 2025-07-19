@@ -1,7 +1,7 @@
 # Hungarian ASR with Icefall/K2
 
 ## Project Description
-This repository contains a Hungarian Automatic Speech Recognition (ASR) system implemented using the Icefall framework with K2. The system features:
+This repository contains a Hungarian Automatic Speech Recognition (ASR) system implemented using the Icefall framework with k2. The system features:
 
 - **Architecture**: Pruned Stateless Transducer with Zipformer encoder
 - **Tokenization**: Byte Pair Encoding (BPE) with 500 subword units
